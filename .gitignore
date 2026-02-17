@@ -1,0 +1,14 @@
+# macOS
+__MACOSX/
+._*
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Binary files that shouldn't be tracked
+*.jar
+
+# Large files (exceeds GitHub limit)
+products.csv
+queries.csv
